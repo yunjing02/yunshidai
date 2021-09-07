@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "76c987d8-f8f1-4763-ba71-39b8e8ba2e36",
+		"name": "图书信息接口测试",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "分页的方式获取指定条件的课程信息",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
